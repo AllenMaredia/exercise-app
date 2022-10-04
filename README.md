@@ -1,6 +1,6 @@
 # Live hosted site
 
-https://dynamic-beignet-172b09.netlify.app/
+https://jazzy-gelato-8fd56d.netlify.app/
 
 # Exercise App
 
